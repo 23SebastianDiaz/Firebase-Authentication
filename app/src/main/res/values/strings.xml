@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseTutorial</string>
+
+    <string name="default_web_client_id">837422598206-cjuolj6jjafk0mhec521f1uvobsmk1m5.apps.googleusercontent.com</string>
+
+    <string name="name_splash">BasketballStars</string>
+    <string name="Tittle_login">Go started</string>
+    <string name="prefs_file">com.example.firebasetutorial.PREFERENCE_FILE_KEY</string>
+
+    <string name="facebook_app_id">1788471178320000</string>
+    <string name="fb_login_protocol_scheme">fb1788471178320000</string>
+    <string name="facebook_client_token">56789</string>
+</resources>

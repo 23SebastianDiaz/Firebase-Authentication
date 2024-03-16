@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837422598206",
+    "project_id": "fir-totorialandroid",
+    "storage_bucket": "fir-totorialandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837422598206:android:bdfa91d2edbafda602e96f",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837422598206-cjuolj6jjafk0mhec521f1uvobsmk1m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetutorial",
+            "certificate_hash": "8026435f8b719238ddd1188fe97db2132698d698"
+          }
+        },
+        {
+          "client_id": "837422598206-l5ue365ku1sm3796acepsnjlvtam1s24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gVnaN4ZbzD93ipPRyMqZZMJhRrn6ycE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837422598206-l5ue365ku1sm3796acepsnjlvtam1s24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
